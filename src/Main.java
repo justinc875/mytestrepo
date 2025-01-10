@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world");
         System.out.println("hello");
         System.out.println("justin chen");
+        System.out.println("alex wang");
     }
 }
