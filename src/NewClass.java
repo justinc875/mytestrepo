@@ -8,4 +8,8 @@ public class NewClass {
     public void hello() {
         System.out.println("hello");
     }
+
+    public void partnerMethod() {
+        System.out.println("update");
+    }
 }
